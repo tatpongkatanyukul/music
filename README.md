@@ -1,5 +1,27 @@
 # music
 
+# Chords
+
+| Scale   | 1 -> 2 | 2 -> 3 | 3 -> 4 | 4 -> 5 | 5 -> 6 | 6 -> 7 | 7 -> 1 |
+| ----    | ----   | ----   | ----   | ----   | ----   | ----   | ----   |
+| Major   | 2      | 2      | 1      | 2      | 2      | 2      | 1      |
+| Minor   | 2      | 1      | 2      | 2      | 1      | 2      | 2      |
+| C Major | C      | D      | E      | F      | G      | A      | B      |
+| C minor | C      | D      | Eb     | F      | G      | Ab     | Bb     |
+
+Chords are different (not directly mapped from scale)
+  * C: C,E,G (a root, a major third and a perfect fifth)
+  * Cm: C,Eb,G (a root, a minor third and a perfect fifth)
+  * C6: C,E,G,A (a root, a major third, a perfect fifth and a major sixth)
+  * C7: C,E,G,Bb (a root, a major third, a perfect fifth and a minor seventh)
+  * C9: C,E,(G),Bb,D (a root, a major third, a perfect fifth, a minor seventh and a major ninth)
+  * Cm6: C,Eb,G,A (a root, a minor third, a perfect fifth and a major sixth)
+  * Cm7: C,Eb,G,Bb (a root, a minor third, a perfect fifth and a minor seventh)
+  * Cmaj7: C,E,G,B (a root, a major third, a perfect fifth and a major seventh)
+  * Cdim: C,Eb,Gb (a root, a minor third and a flattened fifth)
+  * C+: C,E,G,D (a root, a minor third and a flattened fifth, + the ninth/the second)
+  * Csus2: C,D,G (the third are being replaced with a major second)
+  * Csus4: C,F,G (the third are being replaced with a perfect four.)
 
 # Tension and Relief
 
